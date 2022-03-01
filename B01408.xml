@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers for the brewars [sic] within the town of Edinburgh and suburbs, and the priviledge of the Shire of Mid-lothian : to the reasons offered to their Majesties High Commissioner, and the right honourable the Estates of Parliament, by the magistrates of Edinburgh, in realtion to an imposition of two pennies upon the pynt of ale, now craved by them for the space of thirty years, upon pretence of payment of the towns debts.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01408</idno>
+            <idno type="STC">Wing A3456BA</idno>
+            <idno type="STC">ESTC R490137</idno>
+            <idno type="EEBO-CITATION">52614502</idno>
+            <idno type="OCLC">ocm 52614502</idno>
+            <idno type="VID">175747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175747)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers for the brewars [sic] within the town of Edinburgh and suburbs, and the priviledge of the Shire of Mid-lothian : to the reasons offered to their Majesties High Commissioner, and the right honourable the Estates of Parliament, by the magistrates of Edinburgh, in realtion to an imposition of two pennies upon the pynt of ale, now craved by them for the space of thirty years, upon pretence of payment of the towns debts.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[Edinburgh : s.n., 1690] </extent>
+               <publicationStmt>
+                  <publisher>unknown</publisher>
+                  <pubPlace>unknown</pubPlace>
+                  <date>unknown</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beer --  Taxation --  Scotland --  Early works to 1800.</term>
+               <term>Brewing industry --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175747:1" rendition="simple:additions"/>
+            <head>ANSWERS FOR THE BREWARS Within the TOWN of <hi>Edinburgh</hi> and <hi>Suburbs,</hi> And the Priviledge of the Shire of <hi>Mid-Lothian:</hi> To the Reaſons offered to Their Majeſties High Commiſſioner, and the Right Honourable the Eſtates of Parliament, by the Magiſtrates of <hi>E<g ref="char:EOLhyphen"/>dinburgh,</hi> in Relation to an Impoſition of Two Pennies upon the Pynt of Ale, now Craved by them for the ſpace of thirty Years, upon pretence of Payment of the Towns Debts.</head>
+            <p>THe Paper offered in behalf of the Good Town of <hi>Edinburgh,</hi> craves an Impoſition of two Pennies upon the Pint of Ale and Beer, to be ei<g ref="char:EOLhyphen"/>ther Brown or Inbrought and Vended within the Town and Suburbs and Liberties thereof: To be granted to the Magiſtrates for payment of the Towns Debts, over and above the annexed Exciſe of two Merks upon the Boll, and the Additional Exciſe of three Pennies upon the Pint impoſed by this preſent Seſſion of Parliament, and that for the ſpace of thirty years, for the rea<g ref="char:EOLhyphen"/>ſons contained in the ſaid printed Paper.</p>
+            <p>Before the Brewars make any particular Anſwer to the reaſons contained in the ſaid printed Paper, They humbly offer to my Lord Commiſſioner's Grace, and to the Right Honourable the Eſtates of Parliament be way of preamble the Conſiderations following.</p>
+            <p>
+               <hi>Firſt,</hi> In als far as thir Reaſons are Uſhered in with an Narrative of the great Debts, the Good Town of <hi>Edinburgh</hi> lyes preſently under. It is humbly repre<g ref="char:EOLhyphen"/>ſented in behalf of the Brewars of the Shire and Others. That as they are not
+<pb n="2" facs="tcp:175747:2"/>to enquire in the private concerns of the Good Town, or how by the Miſman<g ref="char:EOLhyphen"/>nagement of the Succeſſive Magiſtrates of the Burgh, the Debts thereof have ſwelled to ſuch an conſiderable ſum as is narrated in the Reaſons, ſo it is hoped the High Court of Parliament will not think it reaſonable that the Towns Debts ſhould be payed and ſatisfied out of ſuch an Fond, as will be an unſupportable burden upon the ſaids Brewers, and upon the whole Leidges reſorting to <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> and an direct Incroachment upon that Freedom and Liberty as to which in the Trade of Brewing and Immunities thereof, for enjoyment of the ſame, They are humbly to expect from the Juſtice of the Parliament, a full and free Security and protection; and wherein all the Leidges reſiding in <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> (with them) are equally concerned.</p>
+            <p>
+               <hi>Secundo,</hi> The Good Town of <hi>Edinburgh</hi> upon the pretence of payment of their Debts, have ſince the year 1661. obtained ſeveral Gifts from their Ma<g ref="char:EOLhyphen"/>jeſties for the time, of two pennies upon the pint of Ale and Beer, and which in the firſt inſtance and thereafter, were oppoſed by the Lords of Seſſion, Mem<g ref="char:EOLhyphen"/>bers of the Colledge of Juſtice, and Heretors of the Shire: And who, not<g ref="char:EOLhyphen"/>withſtanding, and (becauſe theſe Gifts were then craved for ſome few years to the end foreſaid) did for ſome time Connive at the ſame. But finding that this was deſigned as an perpetual Servitude upon the Countrey, and their being an gift of this nature obtained in the year 1666 for eleven years after the expiring of an former that had been granted in <hi>Anno</hi> 1660. And this meeting with oppo<g ref="char:EOLhyphen"/>ſition from the Colledge of Juſtice and the Heretors; The Affair was ſettled by Tranſaction, and there was an ſolemn Contract entered into in <hi>January</hi> 1670. betwixt them and the Good Town, whereby the ſaid Gift for eleven years was reſtricted to fix: And upon expiring whereof, the Magiſtrates for the time, did bind and oblige themſelves and their Succeſſors, not to ſeek or procure any ſuch Gift or Impoſition, for the future, upon account of the Towns Debts, that ſhould remain unſatisfied, after expiring of the Gift ſwareſtricted, and in caſe any ſuch happen to be in time coming procured, the ſame by the ſamen Contract <hi>per ver<g ref="char:EOLhyphen"/>ba de preſenti,</hi> now as then and then as now, was declared Void and Null: So that the Acquieſcence of the Colledge of Juſtice and the Heretors of the Shire to this Gift, being in the Terms foreſaid, was to be underſtood as an Bar or Land, mark to ſecure againſt the obtaining of all ſuch Gifts in time coming: And the Town of <hi>Edinburgh</hi> can no more pretend to be free of the ſaid Contract, than they can be of any Debt they are due by Bond: And howbeit the Good Town by their power with, and influence upon the Miniſters of State, during the late Reigns, have obtained an Continuation of this Exaction; yet that being directly contrair to an Final, Legal and Determining Settlement, in relation to the point in controverſie, can be no Rule to perpetuat this Burden any longer, firſt upon the Brewars, and conſequently, in the ſecond place, upon the Colledge of Ju<g ref="char:EOLhyphen"/>ſtice and Heritors, who entered in the ſaid Tranſaction, and upon the Inhabitants of the Burgh; and in effect upon the whole Leidges reſorting to <hi>Edinburgh,</hi> who are concerned in this Matter, either by Selling of Bear, Buying of Ale, or both,</p>
+            <p>
+               <hi>Tertio,</hi> The obtaining an Gift of this nature by an particular Clauſe in the Claim of Right, is declared to be contrair to the known Laws, Statutes and Free<g ref="char:EOLhyphen"/>doms of this Realm: And albeit it will be pretended for the Magiſtrates, That this was looked upon as an Grievance, as being done without Authority of Par<g ref="char:EOLhyphen"/>liament; yet it is Humbly Conceived the deſign of the Law was adapted with a Reguard to the liberty of the Subject, and conſequently that there is <hi>par ratio</hi> now as of before: And therefore it being <hi>res judicata</hi> upon the Matter by the Parliament, as a Redreſs to the Grievances of the late Times, it is hoped the
+<pb n="3" facs="tcp:175747:2"/>Magiſtrates will not crave a Revivance of ſuch an Impoſition now, which in the former Government was found an moſt unſupportable Burden, by moſt of the Burgeſſes of the Burghs of the Kingdom: And when the ſame Addreſs was offe<g ref="char:EOLhyphen"/>red in the <hi>2d</hi> Seſſion of the current Parliament, the ſame was by a Solemn Vote of Parliament Rejected and thrown out of Doors.</p>
+            <p>
+               <hi>Quarto,</hi> It is Humbly offered to my Lord Commiſſioner, His Grace, and Eſtates of Parliament, That as the Impoſing of ſuch an Burden upon the Brew<g ref="char:EOLhyphen"/>ars, will be very uneaſie to them and to the Inhabitants of the Burgh, and all o<g ref="char:EOLhyphen"/>thers whoſe Priviledges allow them to ſtand in oppoſition to any ſuch Gift; ſo with all Submiſſion, it may unevitably prove prejudicial to His Majeſties Intereſt, becauſe there being now an additional Excyſe impoſed by Act of Parliament, Which, with the Fomer, will be about four Merks and an half upon the Boll of Malt, the granting of any New Gift to the Town of <hi>Edinburgh</hi> in addition thereto, will lay many confiderable Brewars aſide as unable to continue in the exerciſe of that Trade, where there is ſo great an Advance in the firſt Inſtance to the Tax men, and ſuch eminent danger in the Retale, ſeing this Addition would make the Impoſition upon every Boll of Malt to ariſe near to Five Pound <hi>Scots;</hi> and which throw moſt places of the Kingdom will adequate the intrinſick value of the Bear, and ſo far probably low the price thereof, as the moſt of the Here<g ref="char:EOLhyphen"/>tors of the Kingdom might ſenſibly feel the prejudice there fra ariſing, which is of an univerſal Concern to Their Majeſties and the hail Leidges, the ſale of Bear being the greateſt part of the Rent of the Nation, and the product thereof in the Matter of Excyſe, being the chiefeſt Perquiſite of the Crown, in relation to the Intereſt of the Government.</p>
+            <p>
+               <hi>Quinto,</hi> As the granting of ſuch an Gift would by an natural Conſequence in all probability lay a Foundation to the Inconveniencies abovementioned; ſo be<g ref="char:EOLhyphen"/>ſides all thoſe it would upon the Matter turn the Brewing in <hi>Edinburgh</hi> to an Monopolie in Favours of a few Brewars, who it ſeems join and concur with the Good Town in this Application, and thereby make Ale good and bad at their pleaſure, there being no ſuch ſecurity in the Matter of Brewing as an univerſal Freedom in that Trade, and whereby every one is a Check to another for the bet<g ref="char:EOLhyphen"/>ter Conſumption and Retale of Ale; whereas if an Monopolie of this Trade ſhall be ſettled amongſt a few Brewars, the Wiſdom of the High Court of Parliament from former Experience may eaſily judge what will be the Conſequence thereof.</p>
+            <p>This being premiſed for the Brewars, and for which they Crave my Lord Commiſſioner, His Grace, and High Court of Parliament, humbly pardon for ſo long an Preamble in an Matter of ſo great Import, and wherein they are ſo nearly concerned, they do in the next place with all due Submiſſion, as to the Reaſons offered in behalf of the Good Town of <hi>Edinburgh,</hi> make the particular Anſwers following.</p>
+            <p>As to the firſt, In Relation to the Debts owing be the Town in the year 1633 and how the ſame was increaſſed by their Expenſes at the Coronation of King <hi>Charles</hi> the firſt, and what they farther advanced for his Relief in the year 1648 and in the year 1650 at the return of King <hi>Charles</hi> the <hi>2d,</hi> It is Anſwered, That with all Submiſſion the making of an Inſinuation of this nature, now after the ſpace of 50 years and more, is to run too far backward by a reviving of the Ca<g ref="char:EOLhyphen"/>lamities of theſe Times: And if every on that was thereby damnified, were to expect an ſuitable Reparation, where this might land at, is left to the Parliaments Conſideration; And as Preſcription is the great Security of the Leidges in the natural poſſeſſion of their Property, ſo by that ſame parity, long taciturnity and acquieſcence ought to Bury in Oblivion all the Tranſactions of theſe Times.</p>
+            <pb n="4" facs="tcp:175747:3"/>
+            <p>As to the Second. In Relation to what the Town ſuffered in the late Uſurpa<g ref="char:EOLhyphen"/>tion before the year 1660 by Building the Citidale of <hi>Leith</hi> the former Anſwer is opponed, and it too great a ſtretch for the Good Town to Run ſo far back<g ref="char:EOLhyphen"/>ward in the proſecution of their preſent Pretentions, without Diſputing the Ve<g ref="char:EOLhyphen"/>racity of what is aſſerted for them, leaſt that may lay down an inconvenient preparative for many ſuch Addreſſes of this nature.</p>
+            <p>As to the Third, In Relation to the Gift of the Citidale of <hi>Leith,</hi> In Favours of the Duke of <hi>Lauderdale,</hi> and to the Towns purchaſe thereof from him: It's Anſwered, That it is but too notour that all theſe Tranſactions were the natural Conſequences of ſtate intrigues carried on by an prevailing party of the Magi<g ref="char:EOLhyphen"/>ſtracy for the time for propagating their own private ends: And it will not be proper for the preſent Magiſtrats to dip further upon this marter. And thereby to diſcover the management of their Predeceſſors, which is often Lyable to be miſconſtructed, where private intereſt is at the bottom, and where the diſcovery makes nothing to the preſent purpoſe.</p>
+            <p>As to the Fourth, In Relation to the firſt Gift granted by King <hi>Charles</hi> the <hi>2d.</hi> upon an Narrative of an former, that had been granted during the <hi>Engliſh</hi> Uſur<g ref="char:EOLhyphen"/>pation, and Relating to an ſecond Gift that had been granted for defraying the Expenſes of bringing in the Water: And that thereby the Towns Debts ſtill re<g ref="char:EOLhyphen"/>mained unſatisfied; It's Anſwered with all Submiſſion this Reaſon containes its own Ditty in its boſome. For 1. It acknowledges that the Good Town had an Impoſition of an plack of the pint during the foreſaid Uſurpation; and conſequently had ſufficiently wherewith to defray all the Burdens and Expenſes they were put to, by that Government. 2. The Renovation of theſe Gifts for ſo many years, being (as is acknowledged) for payment of the Towns Debt, does Argue ill Conduct in the management, where the Debts ſtill increaſed, eſpecially ſeeing it is but too notour that the Inhabitants of the Burgh, payed conſiderably upon the Account of the inbringing of the Water: But this is only informative repreſented, there being no Shadow of Relevancy in this Reaſon.</p>
+            <p>As to the Fifth, In Relation to the Tranſaction betwixt the Town and the Earls of <hi>Argyle, Errol, Marſhal,</hi> and <hi>Strathmore,</hi> concerning an Debt due by them to <hi>Heriots</hi> Hoſpital; and to an Impoſition they got for twelve years after expireing of an former in liew of this Debt: And that this before it expired, proved ineffectual as being illegally laid on. It's Anſwered for the Brewars, that if this Reaſon come to be canvaſſed at the Bottom, it will be of als little weight as the former, it being but too well known that the Tranſaction with theſe Noblemen, was the voluntar Actings of the Magiſtrates for the time, upon their own private Deſigns, and by the influence of the Miniſters of State that had then the management of publick Affairs; And ſo are not now to be obtruded in Relation to this preſent concern, from any diſſappointment that theſe Actings met with: And wherein the Brewars are not in the leaſt concerned, nor in any Diſcharge given in by the Good Town to theſe Earls, there having been neither Force nor Law upon the then Magiſtrates to have done the ſame. And as to all theſe Miſmannagements the Town have Recourſe in Law againſt the Actors thereof.</p>
+            <p>As to the Sixth, In Relation to the bringing in of the Water and of the Mainte<g ref="char:EOLhyphen"/>nance and upholding of the Wells, the former Anſwer is opponed; and it is known that the Inhabitants of the Burgh are annually ſtented, in order to the ſup<g ref="char:EOLhyphen"/>port of all the private concerns thereof, and which makes nothing to the preſent point.</p>
+            <p>As to the Seventh, which narrates the Towns preſent Debt, the Expenſes of repairing the Peer at <hi>Leith,</hi> and keeping the Towns Guards, the Brewars Re<g ref="char:EOLhyphen"/>peits
+<pb n="5" facs="tcp:175747:3"/>their former Anſwers, in Relation to the defraying the Towns Debts, that a farther Addition of Exciſe upon the Brewars which will unevitably Ruine their Trade and be a Burden upon the whole Leidges, is not (with all Submiſſion) a proper Ford or fit Remedie for this Diſeaſe. <hi>2do.</hi> It is very well known that the Exactions of the Town upon the Account of their Harbour; is more nor ſuffi<g ref="char:EOLhyphen"/>cient to defray the Expenſes of the Reparations thereof: And the ſame Anſwer is Repeated to the Expenſes of the Guard, which is maintained upon the Charge of the Inhabitants, and which the Magiſtrates upon enquiry will not deny, but <hi>utcunque</hi> theſe being extrinſick Digreſſiens to the preſent point in Contro<g ref="char:EOLhyphen"/>verſy, do not merit the Parliaments Conſideration; nor that the Brewars in their Anſwers ſhall take notice thereof.</p>
+            <p>As to the Eight, Wherein the Magiſtrats aſſert their Zeal to the preſent Go<g ref="char:EOLhyphen"/>vernment, and the great advancements they have made to the publik upon that Account, at leaſt that the ſame was done out of the private Fortunes of theſe who were Magiſtrates ſince the late Revolution, It's Anſwered that it's hoped the drawer of this Reaſons, in his evincing the Loallity of the Magiſtrats which had it's ariſe from an free offer of their own, will not make this a Fundation for laying on an Impoſition upon the Brewars, which were a derogation to that airly appearance they made in their Loyalty towards the preſent Government, if there doing thereof was on proſpect to be reimburſed at the Expences of third parties, who, as occaſion offers, will be equally ready with them, to ſerve the intereſt of the preſent Government: And it ſtrange how ſuch an inference as this, can be brought in to the High Court of Parliament, as an new Ground for laying on an new Impoſition upon the Brewars which they are not able to bear, And thereby the Magiſtrats Zeal for the Government to be ſupported at the Ex<g ref="char:EOLhyphen"/>pences of them and the whole Leidges.</p>
+            <p>As to the Ninth, In Relation to the Towns Debts, and that without this Im<g ref="char:EOLhyphen"/>poſition, the Magiſtrats will not be enabled to pay the ſame, and will be forced to give over ther Offices: It Anſwered for the Brewars that without dipping up<g ref="char:EOLhyphen"/>pon the ſecret concerns of the Town, it is humbly conceived that the Reparati<g ref="char:EOLhyphen"/>on of theſe Breaches is not to be expected to be made upon the private Expences of of the Countrey Brewars, nor out of any Fond that there Trade is not able to bear: And if the Calamities of the Burghs of the Kingdom by ſuch an prepara<g ref="char:EOLhyphen"/>tive, as this ſhould be a Fundation of an new Impoſition upon third parties that have no Dependance upon the Burgh, the Conſequence may prove very dan<g ref="char:EOLhyphen"/>gerous: And the preventing whereof with Reguard to the Intereſt of the Nati<g ref="char:EOLhyphen"/>on, is humbly offered to the Serious Conſideration of the High Court of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>As to the Tenth, In Relation to the late Impoſition upon Cloath and Wine by the Parliament, with an Regard to the Exigencies of the Burgh; And that the ſame does not Anſwer the deſignes of the Parliament, It is Anſwered that the Argument urged from this Reaſon is Retorted, for if the Parliament out of their prudence thought fit, to take off the Impoſition upon Ale laid on and Gifted in behalf of the Town, as being then underſtood to the Parliament as a Grievance, and in liew thereof, to give them an additional Excyſe upon Wine and Cloath, it is a ſtrange Inference, that if this Fond do not anſwer the deſign, that the Town ſhould crave the Parliament ſhould return to the doing of that which they conſi<g ref="char:EOLhyphen"/>der as an Error in the former Government, or at the leaſt to have been illegally Impoſed, ſeing the rectifying thereof was ſtill with an regard to the advantage of the people, which its hoped will ſtill convince the High Court of Parliament that the Demands of the Good Town in relation to the Brewars will prove ſuch an unſupportable Burden, as that my Lord Commiſſioner his Grace and Eſſa es of
+<pb n="6" facs="tcp:175747:4"/>Parliament will never yield thereto: And whatever Fond ſhall be thought <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for ſupport of the Intereſt of the Town, this of all, with due Submiſſion, ſeeme to be the moſt improper as tending not only to the utter Ruine of Brewars and an heavy Impoſition upon the whole Leidges reſorting the Town of <hi>Edinburgh</hi> but to the great prejudice of Their Majeſties Excyſe, and that of moſt of the Heretors of the Kingdom who are and may be concerned in the Conſumpt of Bea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>As to the <hi>Elveenth,</hi> In relation to the Town of <hi>Edinburgh</hi>'s being the chi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Metropolis of the Kingdom and the Seat of all the Judicatories. It is Anſwered That as the firſt is not denied, ſo <hi>quoad</hi> the Second it ſeems to be no good Argu<g ref="char:EOLhyphen"/>ment for what is now Craved: For it's too notour that the great Support of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Town of <hi>Edinburgh,</hi> does chieflly ariſe from its being the Seat of the Judicato<g ref="char:EOLhyphen"/>ries of the Nation, and that therefore it is a bad Argument to draw ſuch an Con<g ref="char:EOLhyphen"/>ſequence as this, that their Supporters ſhould be further burdened.</p>
+            <p>As to the <hi>Twelth,</hi> That the Brewars in <hi>Edinburgh</hi> do concurr by an Conſen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under their Hands, and that no prejudice can ariſe to the Heretors by this ne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Impoſition It is Anſwered, <hi>1mo.</hi> It is denied that there is any general Conſent<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Brewars of <hi>Edinburgh,</hi> but on the contrair moſt of them concur with theſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Shire, in oppoſition to what is now craved in behalf of the Good Town. 20 <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any ſuch Conſent has been impetrate, it is upon deſign by a few of the Brewa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Edinburgh,</hi> who are to become Tacksmen to the Good Town, if this ne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Impoſition were granted, and would thereby ruine that Trade as to all othe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by inhauncing the ſame ſolely to themſelves: And as an evidence thereof upo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enquiry, it will be found that they have preconcerted the Affair with the Goo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Town towards the carrying on of this deſign; and are to have an extraordinary advantage in the ſet thereof; and ſo to make this an argument to influence <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament in the preſent Claim of the Good Town is ſomewhat extraordinary and in behalf of the other Brewars is remitted to my Lord Commiſſioner <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Grace and Honourable Eſtates their ſerious Confideration.</p>
+            <p>And laſtly, As to the endurance of this Impoſition for 30 years, the former <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are Opponed: And albeit for ſatisfying my Lord Commiſſioner his <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the High Court of Parliament; the Brewars have offered particular An<g ref="char:EOLhyphen"/>ſwers to the foreſaids Reaſons; yet the ſame is in adherence to the General An<g ref="char:EOLhyphen"/>ſwers premiſed and which they humbly intreat in an matter of this moment And in an Caſe ſo circumſtantiat may be ſeriouſly conſidered, and if any diffi<g ref="char:EOLhyphen"/>culty occcur in the premiſes; that my Lord Commiſſioner his Grace and <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Honourable Eſtates will allow the Brewars an Hearing in plain Parliament eſpecially feeing that what is now craved by the Town of <hi>Edinburgh</hi> as an Ex<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> upon both the Town and Country Brewars, will be upwards of 60000 <hi>lib. Se<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> yearly, which in thirty years time ariſes to Eighten hundreth thouſand pound <hi>Scots,</hi> beſides the great Incomes the Town has, by their ordinary Reven<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and therefore ſuch an exorbitant Grant will prove an unſupportable burden <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Brewars, the Inhabitants of the Burgh Heretors of the Shite, and all other repairing to the Town of <hi>Edinburgh,</hi> ſo of how dangerous Conſequences might be as to the Intereſt of all the Leidges. is ſeriouſly remitted, as aforeſaid to the Conſideration of the High Court of Parliament.</p>
+            <closer>In reſpect whereof,</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
